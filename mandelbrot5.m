@@ -2,6 +2,7 @@
 %Mandelbrot Set Attempt no.5
 %evaluate points in the mandelbrot set
 %to-do - find ways to speed this guy up, evaluate a bunch more points
+%This was one of the first codes I wrote  - very proudly generated a plot resembling the mandelbrot set. Obviously there are other coding languages which would be preferable for doing this in terms of speed and graphics handling.
 clc
 clear
 hold on
