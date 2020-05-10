@@ -20,4 +20,4 @@ Here I just create a few cylinders and run a simple steady state haet transfer a
 ![thermal](https://github.com/fernancode/Miscellaneous-MatLab/blob/master/screencap4.JPG)
 
 Just some stl importing
-![STL]([mbrot](https://github.com/delafern/Miscellaneous-MatLab/blob/master/screencap3.JPG)
+![STL](https://github.com/delafern/Miscellaneous-MatLab/blob/master/screencap3.JPG)
