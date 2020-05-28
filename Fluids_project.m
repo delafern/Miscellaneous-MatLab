@@ -12,6 +12,8 @@
 %handle cases where stream never reaches 15meters - you have to always
 %overshoot for it to work, but that could be easily handled.
 
+clear
+clc
 
 g= 9.81;
 rho = 800; %775-840 kg/m^2
@@ -19,8 +21,6 @@ nozzle_d = .2; %%.3; % m
 v_init = 10; %m/s
 mdot = rho * v_init * (nozzle_d^2*pi / 4);
 
-clear
-clc
 a_y = @(v) g - .2*nozzle_d^2 * v^2 * 1.225/g; %with gravity, y direction
 a_x = @(v) .2*nozzle_d^2 * v^2;
 
