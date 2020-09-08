@@ -12,6 +12,9 @@ Pictured is the input window:
 ![input](https://github.com/fernancode/Miscellaneous-MatLab/blob/master/screencap2.JPG)
 
 
+A script to take a random signal (in this case, three superimposed sin waves with different frequencies) and plot the fourier transform to find the dominant frequencies of the signal. This script is largely based on a 3Blue1Brown video but meant for practice in exploring signal processing.
+![fourier gif](https://github.com/fernancode/Miscellaneous-MatLab/blob/master/myfile3.gif)
+
 
 Plotting points from the mandelbrot set - code was a very early attempt and lacking in a lot of ways, BUT was fun to do for someone very new to writing code at the time.
 ![mbrot](https://github.com/fernancode/Miscellaneous-MatLab/blob/master/screencap1.JPG)
